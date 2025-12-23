@@ -1,5 +1,0 @@
-#EXTM3U x-tvg-url="https://epg.iill.top/epg,https://epg.112114.xyz/pp.xml,http://cdn.1678520.xyz/xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",CCTV1
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
-https://live.tvfix.org/live/fhzw/index.m3u8
